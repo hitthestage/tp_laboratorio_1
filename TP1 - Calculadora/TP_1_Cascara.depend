@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1472309076 source:c:\users\alumno\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472302318 c:\users\alumno\desktop\tp_1_cascara\funciones.h
+
+1472626390 source:c:\users\buzeta\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1472626050 source:c:\users\buzeta\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472626248 c:\users\buzeta\desktop\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1472649453 source:c:\users\alumno.lab4pc\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1472649418 source:c:\users\alumno.lab4pc\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472649138 c:\users\alumno.lab4pc\desktop\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1473390249 source:c:\users\buzeta\desktop\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1473399617 source:c:\users\buzeta\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1472649138 c:\users\buzeta\desktop\calculadora\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1473390249 source:c:\users\ueboh\documents\universidad\utn\1er cuatrimestre\programación\tp 1\calculadora\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1522945020 source:c:\users\ueboh\documents\universidad\utn\1er cuatrimestre\programación\tp 1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1473400543 c:\users\ueboh\documents\universidad\utn\1er cuatrimestre\programación\tp 1\calculadora\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
