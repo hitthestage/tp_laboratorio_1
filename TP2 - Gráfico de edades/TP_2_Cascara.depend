@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1474737118 source:c:\users\buzeta\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1474737130 c:\users\buzeta\desktop\tp_2_cascara\funciones.h
+
+1474737192 source:c:\users\buzeta\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493219160 source:c:\users\alumno\desktop\tp_laboratorio_1-master\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493219160 c:\users\alumno\desktop\tp_laboratorio_1-master\tp2\funciones.h
+
+1493219326 source:c:\users\alumno\desktop\tp_laboratorio_1-master\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1493383667 source:c:\users\buzeta\desktop\2do tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493219160 c:\users\buzeta\desktop\2do tp_laboratorio_1\funciones.h
+
+1493350267 source:c:\users\buzeta\desktop\2do tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
